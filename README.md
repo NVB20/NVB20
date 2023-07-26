@@ -51,7 +51,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin/in/niv-berlin-255a15272" target="_blank">
+  <a href="https://www.linkedin.com/in/niv-berlin-255a15272" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://www.discordapp.com/users/270544380744564747" target="_blank">
