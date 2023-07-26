@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">My name is Niv Berlin and I'm a DevOps Developer from Israel</p>
+<p align="left">Hey there, I'm Niv Berlin, a DevOps student passionate about innovation through automation, CI/CD, and cloud technologies. Eager to contribute and learn from the vibrant tech community, I'm excited to collaborate and make a meaningful impact together! 🚀
+</p>
 
 ###
 
