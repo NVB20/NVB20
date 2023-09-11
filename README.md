@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hey there, I'm Niv Berlin, a DevOps student passionate about innovation through automation, CI/CD, and cloud technologies. Eager to contribute and learn from the vibrant tech community, I'm excited to collaborate and make a meaningful impact together! 🚀
+<p align="left">Hey there, I'm Niv Berlin, a DevOps Engineer passionate about innovation through automation, CI/CD, and cloud technologies. Eager to contribute and learn from the vibrant tech community, I'm excited to collaborate and make a meaningful impact together! 🚀
 </p>
 
 ###
@@ -45,6 +45,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
   <img width="12" />
 </div>
 
