@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning in a DevOps course<br>🎯 Goals:  to achieve CKA certification<br>⚡ Amazon Solutions Architect - associate certified</p>
+<p align="left">📚 I'm currently learning DevOps <br>🎯 Goals:  to achieve CKA certification<br>⚡ Amazon Solutions Architect - associate certified</p>
 
 ###
 
