@@ -11,7 +11,16 @@
 
 ###
 
-<p align="left">📚 I'm currently learning DevOps <br>🎯 Goals:  to achieve CKA certification<br>⚡ Amazon Solutions Architect - associate certified</p>
+<p align="left">
+  I'm on a mission to master the world of DevOps, one container at a time. 🚢<br><br>
+
+  📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform, and more<br>
+  🎯 <strong>Goal:</strong> CKA Certified – coming soon!<br>
+  ✅ <strong>Certifications:</strong> AWS Certified Solutions Architect – Associate<br><br>
+
+  💡 Passionate about automation, infrastructure as code, and building resilient cloud-native systems.<br>
+  🔧 Always tinkering, always learning.
+</p>
 
 ###
 
