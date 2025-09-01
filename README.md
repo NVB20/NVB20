@@ -15,12 +15,23 @@
   I'm on a mission to master the world of DevOps, one container at a time. 🚢<br><br>
 
   📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform, and more<br>
-  🎯 <strong>Goal:</strong> CKA Certified – coming soon!<br>
   ✅ <strong>Certifications:</strong> AWS Certified Solutions Architect – Associate<br><br>
 
   💡 Passionate about automation, infrastructure as code, and building resilient cloud-native systems.<br>
   🔧 Always tinkering, always learning.
 </p>
+
+---
+
+### 🚀 Featured Projects
+
+- **WhatsApp Selenium Bot** 🤖  
+  An automation tool that connects **Google Sheets** with **WhatsApp Web** using **Python + Selenium**.  
+  It scrapes messages from a WhatsApp student group, analyzes them, and uploads the relevant data into Google Sheets to generate statistics and actionable insights.
+
+- **R-Levels Indicator (TradingView)** 📈  
+  A powerful script for **TradingView** that visually maps out trades.  
+  It automatically draws entry, stop loss, and 3R/6R profit targets, making it perfect for traders who want clear risk-to-reward visualization.
 
 ###
 
