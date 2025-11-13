@@ -20,6 +20,10 @@
 - **R-Levels Indicator (TradingView)** 📈  
   A powerful script for **TradingView** that visually maps out trades.  
   It automatically draws entry, stop loss, and 3R/6R profit targets, making it perfect for traders who want clear risk-to-reward visualization.
+  
+- **Global Trading Sessions Indicator** 🌍  
+  A dynamic indicator that highlights major market sessions — **Tokyo, London, and New York** — directly on your TradingView chart.  
+  It helps traders quickly identify overlapping sessions and high-volatility periods and clear session visibility.
 
 ###
 
