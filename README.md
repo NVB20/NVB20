@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">
-  <br>I'm on a mission to master the world of DevOps, one container at a time. 🚢</br>
+<p align="left" style="font-size:16px;">
+  I'm on a mission to master the world of DevOps, one container at a time. 🚢<br><br>
   📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform, and building custom indicators for TradingView.<br>
   ✅ <strong>Certifications:</strong> AWS Certified Solutions Architect – Associate<br><br>
 
@@ -9,18 +9,23 @@
   🔧 Always tinkering, always learning.
 </p>
 
-### 🚀 Featured Projects
+<h2>🚀 Featured Projects</h2>
 
-- **WhatsApp Selenium Bot** 🤖  
-  Dockerized automation that connects **Google Sheets** with **WhatsApp Web** using **Python + Selenium + VNC** for real-time monitoring and data collection.
+<p style="font-size:16px;">
+  <strong> 🤖 WhatsApp Selenium Bot- </strong>  
+  Dockerized automation connecting <strong>Google Sheets</strong> with <strong>WhatsApp Web</strong> using <strong>Python + Selenium + VNC</strong> for real-time monitoring and data collection.
+</p>
 
-- **R-Levels Indicator (TradingView)** 📈  
-  Automatically plots entry, stop loss, and profit targets for clear **risk-to-reward visualization**.
+<p style="font-size:16px;">
+  <strong>📈 R-Levels Indicator- </strong>  
+  Automatically plots entry, stop loss, and profit targets for clear <strong>risk-to-reward visualization</strong>.
+</p>
 
-- **Global Trading Sessions Indicator** 🌍  
-  Highlights **Tokyo,Hong-Kong, London, and New York** sessions to visualize overlapping markets and volatility zones.
+<p style="font-size:16px;">
+  <strong>🌍 Global Trading Sessions Indicator- </strong>  
+  Highlights <strong>Tokyo, London, and New York</strong> sessions to visualize overlapping markets and volatility zones.
+</p>
 
-###
 
 <h2 align="left">🛠 Language and tools</h2>
 
