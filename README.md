@@ -27,7 +27,9 @@
 
 - **WhatsApp Selenium Bot** 🤖  
   An automation tool that connects **Google Sheets** with **WhatsApp Web** using **Python + Selenium**.  
-  It scrapes messages from a WhatsApp student group, analyzes them, and uploads the relevant data into Google Sheets to generate statistics and actionable insights.
+  It scrapes messages from a WhatsApp student group, analyzes them, and uploads the relevant data into Google Sheets to generate statistics and actionable insights.  
+  The app is fully **Dockerized**, featuring a **Selenium + VNC** setup that allows you to visually monitor and manage the WhatsApp Web automation in real time inside a containerized environment.
+
 
 - **R-Levels Indicator (TradingView)** 📈  
   A powerful script for **TradingView** that visually maps out trades.  
