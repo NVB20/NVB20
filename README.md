@@ -2,19 +2,12 @@
 
 ###
 
-<p align="left">Hey there, I'm Niv Berlin, a DevOps Engineer passionate about innovation through automation, CI/CD, and cloud technologies. Eager to contribute and learn from the vibrant tech community, I'm excited to collaborate and make a meaningful impact together! 🚀
-</p>
-
-###
-
-<h2 align="left">About me</h2>
-
 ###
 
 <p align="left">
   I'm on a mission to master the world of DevOps, one container at a time. 🚢<br><br>
 
-  📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform, and more<br>
+  📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform and building custom indicators for TradingView.<br>
   ✅ <strong>Certifications:</strong> AWS Certified Solutions Architect – Associate<br><br>
 
   💡 Passionate about automation, infrastructure as code, and building resilient cloud-native systems.<br>
@@ -28,7 +21,7 @@
 - **WhatsApp Selenium Bot** 🤖  
   An automation tool that connects **Google Sheets** with **WhatsApp Web** using **Python + Selenium**.  
   It scrapes messages from a WhatsApp student group, analyzes them, and uploads the relevant data into Google Sheets to generate statistics and actionable insights.  
-  The app is fully **Dockerized**, featuring a **Selenium + VNC** setup that allows you to visually monitor and manage the WhatsApp Web automation in real time inside a containerized environment.
+  The app is fully **Dockerized**, featuring a Selenium setup that allows you to manage the WhatsApp Web automation inside a containerized environment.
 
 
 - **R-Levels Indicator (TradingView)** 📈  
@@ -88,9 +81,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/niv-berlin" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.discordapp.com/users/270544380744564747" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
 </div>
 
