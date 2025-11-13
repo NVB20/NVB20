@@ -1,8 +1,8 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-  I'm on a mission to master the world of DevOps, one container at a time. 🚢<br><br>
-  📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform and building custom indicators for TradingView.<br>
+  <br>I'm on a mission to master the world of DevOps, one container at a time. 🚢</br>
+  📚 <strong>Learning:</strong> DevOps practices, CI/CD, Kubernetes, Terraform, and building custom indicators for TradingView.<br>
   ✅ <strong>Certifications:</strong> AWS Certified Solutions Architect – Associate<br><br>
 
   💡 Passionate about automation, infrastructure as code, and building resilient cloud-native systems.<br>
@@ -12,18 +12,13 @@
 ### 🚀 Featured Projects
 
 - **WhatsApp Selenium Bot** 🤖  
-  An automation tool that connects **Google Sheets** with **WhatsApp Web** using **Python + Selenium**.  
-  It scrapes messages from a WhatsApp student group, analyzes them, and uploads the relevant data into Google Sheets to generate statistics and actionable insights.  
-  The app is fully **Dockerized**, featuring a Selenium setup that allows you to manage the WhatsApp Web automation inside a containerized environment.
-
+  Dockerized automation that connects **Google Sheets** with **WhatsApp Web** using **Python + Selenium + VNC** for real-time monitoring and data collection.
 
 - **R-Levels Indicator (TradingView)** 📈  
-  A powerful script for **TradingView** that visually maps out trades.  
-  It automatically draws entry, stop loss, and 3R/6R profit targets, making it perfect for traders who want clear risk-to-reward visualization.
-  
+  Automatically plots entry, stop loss, and profit targets for clear **risk-to-reward visualization**.
+
 - **Global Trading Sessions Indicator** 🌍  
-  A dynamic indicator that highlights major market sessions — **Tokyo, London, and New York** — directly on your TradingView chart.  
-  It helps traders quickly identify overlapping sessions and high-volatility periods and clear session visibility.
+  Highlights **Tokyo,Hong-Kong, London, and New York** sessions to visualize overlapping markets and volatility zones.
 
 ###
 
