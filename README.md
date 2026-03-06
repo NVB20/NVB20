@@ -23,7 +23,7 @@
 | 🤖 **WhatsApp Selenium Bot** | Dockerized automation connecting **Google Sheets** with **WhatsApp Web** using **Python + Selenium + VNC** for real-time monitoring and data collection |
 | 📈 **R-Levels Indicator** | TradingView indicator that automatically plots entry, stop loss, and profit targets for clear **risk-to-reward visualization** |
 | 🌍 **Global Trading Sessions Indicator** | Highlights **Tokyo, London, and New York** sessions to visualize overlapping markets and volatility zones |
-
+| 💹 **Multi-Trader** | Electron desktop app that fires orders across multiple Bybit accounts simultaneously, with AES-256-GCM encrypted API keys, JWT auth, and risk-based position sizing — built with **NestJS + React + MongoDB** |
 ---
 
 ## 🛠️ Languages & Tools
