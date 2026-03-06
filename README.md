@@ -12,81 +12,68 @@
 
 <br/>
 
-> Building resilient cloud-native systems through automation, infrastructure as code, and continuous delivery.
+> 🏗️ Building resilient cloud-native systems through automation, infrastructure as code, and continuous delivery.
 
 ---
 
-<h2>🚀 Featured Projects</h2>
+## 🚀 Featured Projects
 
-<p>
-  <strong>🤖 WhatsApp Selenium Bot</strong><br/>
-  Dockerized automation connecting <strong>Google Sheets</strong> with <strong>WhatsApp Web</strong> using <strong>Python + Selenium + VNC</strong> for real-time monitoring and data collection.
-</p>
-
-<p>
-  <strong>📈 R-Levels Indicator</strong><br/>
-  Automatically plots entry, stop loss, and profit targets for clear <strong>risk-to-reward visualization</strong> on TradingView.
-</p>
-
-<p>
-  <strong>🌍 Global Trading Sessions Indicator</strong><br/>
-  Highlights <strong>Tokyo, London, and New York</strong> sessions to visualize overlapping markets and volatility zones.
-</p>
+| Project | Description |
+|--------|-------------|
+| 🤖 **WhatsApp Selenium Bot** | Dockerized automation connecting **Google Sheets** with **WhatsApp Web** using **Python + Selenium + VNC** for real-time monitoring and data collection |
+| 📈 **R-Levels Indicator** | TradingView indicator that automatically plots entry, stop loss, and profit targets for clear **risk-to-reward visualization** |
+| 🌍 **Global Trading Sessions Indicator** | Highlights **Tokyo, London, and New York** sessions to visualize overlapping markets and volatility zones |
 
 ---
 
-<h2 align="left">🛠 Languages and Tools</h2>
+## 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git" title="Git"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" title="Docker"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" title="Kubernetes"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux" title="Linux"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" title="Node.js"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" title="Python"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb" title="MongoDB"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" title="Terraform"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus" title="Prometheus"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="40" alt="grafana" title="Grafana"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="google cloud" title="Google Cloud"/>
   <img width="12" />
-  <img src="https://www.svgrepo.com/show/353443/aws.svg" height="40" alt="aws" />
+  <img src="https://www.svgrepo.com/show/353443/aws.svg" height="40" alt="aws" title="AWS"/>
   <img width="12" />
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" />
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" height="40" alt="jenkins" title="Jenkins"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" title="ArgoCD"/>
 </div>
 
 ---
 
-<h2 align="left">🔥 My Stats</h2>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nvb20&theme=tokyonight" width="100%" alt="profile summary" />
-</div>
+## 🔥 Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nvb20&theme=tokyonight&hide_border=false" height="165" alt="streak stats" />
   &nbsp;
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nvb20&theme=tokyonight" height="165" alt="top languages by repo" />
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nvb20&theme=tokyonight" height="165" alt="top languages by commits" />
 </div>
 
 ---
 
+## 🤝 Connect
+
 <div align="left">
   <a href="https://www.linkedin.com/in/niv-berlin" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Niv_Berlin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
