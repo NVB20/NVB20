@@ -24,6 +24,8 @@
 | 📈 **R-Levels Indicator** | TradingView indicator that automatically plots entry, stop loss, and profit targets for clear **risk-to-reward visualization** |
 | 🌍 **Global Trading Sessions Indicator** | Highlights **Tokyo, London, and New York** sessions to visualize overlapping markets and volatility zones |
 | 💹 **Multi-Trader** | Electron desktop app that fires orders across multiple Bybit accounts simultaneously, with AES-256-GCM encrypted API keys, JWT auth, and risk-based position sizing — built with **NestJS + React + MongoDB** |
+| 🧩 **[New Tab](https://github.com/NVB20/new-tab)** | Chrome extension that turns the new tab page into a personal dashboard: speed-dial tiles in groups and folders, a drag-and-resize widget layout, live markets (crypto, indexes, commodities, FX), GitHub activity, sports scores, weather, tasks and countdowns — **vanilla JavaScript + Manifest V3**, no build step, no server, everything stays in your Chrome profile |
+
 ---
 
 ## 🛠️ Languages & Tools
